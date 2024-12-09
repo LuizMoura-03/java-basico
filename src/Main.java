@@ -15,7 +15,7 @@ public class Main {
             soma += i;  //Adiciona o valor atual de  i a varivel soma.
         }
 
-        System.out.println("Soma de dois numeros de 1 até " + n + ": " + soma); //exibe o resultado
+        System.out.println("Soma de dois numeros de 1 até " + n + " : " + soma); //exibe o resultado
 
         scanner.close();
 
