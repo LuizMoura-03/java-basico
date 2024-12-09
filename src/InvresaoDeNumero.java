@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InvresaoNumero {
+public class InvresaoDeNumero {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
